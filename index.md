@@ -11,7 +11,7 @@ Showcase of my projects and exercises.
 A consulting and coaching firm's human resources department and project management office want to understand developers sentiment towards AI tools. These stakeholders are interested in how experience affects AI adoption and opinion. The findings from this analysis will be used in the firm's upcoming five-year product strategy.
 
 ### Dataset
-The [Stack Overflow Developer Survey 2025]([https://google.com](https://github.com/StackExchange/Survey/tree/main/packages/archive/2025)) was chosen for its completeness and amount of responses. Years spent programming was chosen as the main axis as a way to investigate how sentiment differs based on experience. Note that due to the population skewing towards the ten to thirty range of years, the findings are heavily affected by that.
+The [Stack Overflow Developer Survey 2025](https://github.com/StackExchange/Survey/tree/main/packages/archive/2025) was chosen for its completeness and amount of responses. Years spent programming was chosen as the main axis as a way to investigate how sentiment differs based on experience. Note that due to the population skewing towards the ten to thirty range of years, the findings are heavily affected by that.
 
 ### Graphs
 
