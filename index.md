@@ -3,7 +3,7 @@
 Showcase of my projects and exercises.
 
 **Table of content**
-+ Exercise #1
++ [Exercise #1](#exercise-1)
 
 ---
 
