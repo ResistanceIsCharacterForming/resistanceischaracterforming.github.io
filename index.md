@@ -1,11 +1,11 @@
 <style>
-  header, footer {
-    display: none !important;
-  }
-  section {
-    width: 100% !important;
-    float: none !important;
-  }
+header, footer {
+display: none !important;
+}
+section {
+width: 100% !important;
+float: none !important;
+}
 </style>
 
 # My portfolio
