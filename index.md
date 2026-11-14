@@ -31,3 +31,8 @@ All segments share that they value the perspective of another human if they are 
 + Continue to offer interpersonal coaching and training when it comes to topics that require deep learning.
 + Develop bite-sized digital courses for new to intermediate junior developers about effective day-to-day use of AI.
 + Develop modular in-person courses for senior developers about how to get started using AI tools.
+
+### Key takeaways
++ Initially horizontal stacked bars were considered for the graphs, however the amount of details made heatmaps a more natural choice. Given the weight of responses in the third graph, a line graph or similar might have been more appropriate.
++ The amount of categories present in the dataset made it difficult to consider what kind of data to use together. Based on the case experience seemed logical, however there were a lot of options.
++ If one were to expand this exercise, it would be interesting to compare with other years from the survey, or completely different datasets,
