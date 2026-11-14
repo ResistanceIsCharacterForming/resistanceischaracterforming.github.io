@@ -23,7 +23,7 @@ The [Stack Overflow Developer Survey 2025](https://github.com/StackExchange/Surv
 
 ### Findings
 
-All segments share that they value the perspective of another human if they are unsure about the answer a AI gives. Following this reason are explanations and tutoring offered by a person, with mindfulness concerning security high as well. With the question of trust it's initially high, then drops noticeably with each segment after twenty-one to thirty. Finally when asked how frequent they use AI tools, all segments up to thirty-one to forty answer highly on daily. The remaining segments are either divided or leaning towards never will use.
+All segments share that they value the perspective of another human if they are unsure about the answer a AI gives. Following this reason are explanations and tutoring offered by a person, with mindfulness concerning security also high. With the question of trust it's initially high, then drops noticeably with each segment after twenty-one to thirty. Finally when asked how frequent they use AI tools, all segments up to thirty-one to forty answer highly on daily. The remaining segments are either divided or leaning towards never will use.
 
 ### Recommendations
 + Continue to offer interpersonal coaching and training when it comes to topics that require deep learning.
@@ -32,5 +32,5 @@ All segments share that they value the perspective of another human if they are 
 
 ### Key takeaways
 + Initially horizontal stacked bars were considered for the graphs, however the amount of details made heatmaps a more natural choice. Given the weight of responses in the third graph, a line graph or similar might have been more appropriate.
-+ The amount of categories present in the dataset made it difficult to consider what kind of data to use together. Based on the case experience seemed logical, however there were a lot of options.
++ The amount of categories present in the dataset made it difficult to decide which pieces of data to pair. Based on the case years of programming seemed logical, however there were a lot of options.
 + If one were to expand this exercise, it would be interesting to compare with other years from the survey, or completely different datasets,
