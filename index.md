@@ -10,7 +10,7 @@ Showcase of my projects and exercises.
 ## Exercise #1
 
 ### Business case
-A consulting firm's human resources department and project management office want to understand developers sentiment towards AI tools. These stakeholders want to understand how developers view AI tools, and how frequently they employ them in their workflow.
+A consulting and course firm's human resources department and project management office want to understand developers sentiment towards AI tools. These stakeholders want to understand how developers view AI tools, and how frequently they employ them in their workflow.
 
 ### Dataset
 The [Stack Overflow Developer Survey 2025]([https://google.com](https://github.com/StackExchange/Survey/tree/main/packages/archive/2025)) was chosen for its completeness and amount of responses. Years spent programming was chosen as the main axis as a way to investigate how sentiment differs based on experience. Note that due to the population skewing towards the ten to thirty range of years, the findings are heavily affected by that.
@@ -26,3 +26,8 @@ The [Stack Overflow Developer Survey 2025]([https://google.com](https://github.c
 ### Findings
 
 All segments share that they value the perspective of another human if they are unsure about the answer a AI gives. Following this reason are explanations and tutoring offered by a person, with mindfulness concerning security high as well. With the question of trust it's initially high, then drops noticeably with each segment after twenty-one to thirty. Finally when asked how frequent they use AI tools, all segments up to thirty-one to forty answer highly on daily. The remaining segments are either divided or leaning towards never will use.
+
+### Recommendations
++ Continue to offer interpersonal coaching and training when it comes to topics that require deep learning.
++ Develop bite-sized digital courses for new to intermediate junior developers about effective day-to-day use of AI.
++ Develop modular in-person courses for senior developers about how to get started using AI tools.
