@@ -33,4 +33,4 @@ All segments share that they value the perspective of another human if they are 
 ### Key takeaways
 + Initially horizontal stacked bars were considered for the graphs, however the amount of details made heatmaps a more natural choice. Given the weight of responses in the third graph, a line graph or similar might have been more appropriate.
 + The amount of categories present in the dataset made it difficult to decide which pieces of data to pair. Based on the case years of programming seemed logical, however there were a lot of options.
-+ If one were to expand this exercise, it would be interesting to compare with other years from the survey, or completely different datasets,
++ If one were to expand this exercise, it would be interesting to compare with other years from the survey, or completely different datasets.
